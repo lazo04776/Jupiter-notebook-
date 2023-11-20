@@ -46,6 +46,8 @@ Below are a few examples of evaluating aritmetic expressions in Python
     20
 
 
+#This will convert 200 minutes to hours by diving by 60
+180/60
 
 Objectives:
 ------------
