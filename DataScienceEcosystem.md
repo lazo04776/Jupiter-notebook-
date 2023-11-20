@@ -22,6 +22,11 @@
 |RStudio |
 |Excel |
 
+'Data science libraries 
+--------------------------
+1.Numpy 1
+2.Pandas 2
+3.Matplotlib 3
 
 Below are a few examples of evaluating aritmetic expressions in Python
 --------------------------
